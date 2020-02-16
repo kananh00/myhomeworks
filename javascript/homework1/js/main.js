@@ -1,8 +1,8 @@
 let name,age;
 let defaultname = '', defaultage = '';
 name = prompt("What's your name",defaultname);
-while(name==null||name==''||isNaN(name)==false){
-    if(isNaN(name)==false||name==null||name==''){
+while(name=='null'||name==''||isNaN(name)==false){
+    if(isNaN(name)==false||name=='null'||name==''){
     defaultname = name;
     
     name = prompt('You must enter the valid name!',defaultname);
