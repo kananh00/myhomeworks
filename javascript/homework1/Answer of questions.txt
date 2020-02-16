@@ -1,0 +1,16 @@
+Question 1:
+
+   First difference between var, let and const is var is function scope and let, const are block scope. We can define block scope with curly scopes.{} And if we declare a variable with let or const, it will
+be available only in that block. But when we declare a variable in a function, it is function scope. That means this variable only can be accesed in that function.The second difference is "var" variable can be 
+updated or redeclared, "let" variable can be updated but not redeclared and "const" veriable can't redeclared or updated.The third difference is if we declare "var" variable after code execution, 
+the result will be undefined, but with "let" or "const" value we will get an Error.
+
+Question 2:
+
+    Firsly, "var" variable can be redefined, some times for ex: if we want to change the value of variable, it will works well, but if we declare the same veriable again by mistake it will give the wrong result.
+That's why using "var" can cause some bugs. But the main reason is what scope is using "var" variable. Function scope is not as good as Block scope. Many programming languages uses Block scope and if a person learn js
+after other programming languages, using function scope will really difficult. For ex: if we try to using several loops in a function, and declare the same named "var" variables in every loop for ex: var j; , the value 
+of j in the second loop will take the value of j in the first loop. Because we are pointing the same variable, even they are in differnt blocks. But with using "let" in same contidition every "let" variable is differ from the other, 
+because they are in differnt blocks.  
+
+ 
