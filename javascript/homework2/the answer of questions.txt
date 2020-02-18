@@ -1,0 +1,14 @@
+Question 1:
+
+  For performing a specific task, a function bring together several statements and after all it returns the result which we want. It makes a program more understandable. Instead of writing all 
+program without any function, we can divide it to many functions. Then, when someone look at our codes, it can easily understand what the program trying to do, if we have named functions clearly. 
+Also, using functions we can avoid from writing same code again for every new input. We can use the same function many times, and pass our every input to it.
+
+Question 2:
+
+  Parameter are declaration in the parentheses of a function declaration or definition, and argument is expression in the parentheses of a function call. If we want to do some calculation or 
+something else dependent on values which comes from outer of function, we should use arguments when call the function, which will be in a function. And every time when we give a new values to this 
+arguments, a function is called, it passes them to function declaration and the parameter receives a copy of the argument's value.The arguments must pass in every function calling, 
+because if we want to get new return value, we should change parameters.
+ 
+
