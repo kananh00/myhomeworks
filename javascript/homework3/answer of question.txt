@@ -1,0 +1,4 @@
+Question:
+ 
+  All objects in JavaScript come from the parent Object constructor. We can use many built-in methods in object, and it gives a chance to us working with our individual objects.
+Object method is used on the object constructor and as a parametr it uses object instance. With help of object methods we can modify, protect, and repeat through them.
