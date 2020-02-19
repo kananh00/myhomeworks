@@ -6,7 +6,7 @@ function createNewUser() {
         firstName: name,
         lastName: surname,
         getLogin() {
-            console.log((newUser.firstName[0] + newUser.lastName).toLowerCase();
+            console.log((newUser.firstName[0] + newUser.lastName).toLowerCase());
         }
     };
         newUser.getLogin();
