@@ -9,8 +9,7 @@ function createNewUser() {
             console.log((newUser.firstName[0] + newUser.lastName).toLowerCase());
         }
     };
-        newUser.getLogin();
+        return newUser;
 }
- let user = {
-    answer: createNewUser()
- };
+ let user = new createNewUser();
+ user.getLogin();
