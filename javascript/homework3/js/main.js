@@ -6,14 +6,10 @@ function createNewUser() {
         firstName: name,
         lastName: surname,
         getLogin() {
-            let string = newUser.firstName[0] + newUser.lastName;
-            return string.toLowerCase();
+            console.log((newUser.firstName[0] + newUser.lastName).toLowerCase());
         }
     };
-    return newUser.getLogin();
+        return newUser;
 }
- let user = {
-     answer: createNewUser()
- };
-
- console.log(user.answer);
+ let user = new createNewUser();
+ user.getLogin();
