@@ -1,0 +1,3 @@
+  forEach is a method which allows us to execute a function for every element in an array. We can only use it for arrays, sets and maps. We need to specify a callback function, if we want to use forEach.
+forEach () runs the defined callback function one time for each element in the array, in increasing order of the index. The function does not work for elements that are deleted or undefined. And, we can't stop 
+forEach() loop, break or continue aren't working in forEach. That's why, we should consider it when writing a code.

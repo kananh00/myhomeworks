@@ -10,14 +10,10 @@ function createNewUser() {
             return string.toLowerCase();
         }
     };
+    return newUser.getLogin();
 }
  let user = {
-     createNewUser(
-         
-
-     )
-
-
+     answer: createNewUser()
  };
 
- console.log(user.result);
+ console.log(user.answer);
