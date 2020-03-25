@@ -25,7 +25,7 @@ function App() {
             key = {1}
             backgroundColor = 'rgba(0, 0, 0, .2)' 
             text = 'Ok' 
-            onClick = {() => alert('first modal window')}/>,
+            onClick = {() => alert('File is deleted successfully')}/>,
           <Button2 
             key = {2}
             backgroundColor = 'rgba(0, 0, 0, .2)'  
@@ -44,7 +44,7 @@ function App() {
                 key = {1}
                 backgroundColor = 'rgba(0, 0, 0, .2)'  
                 text = 'Save' 
-                onClick = {() => alert('first modal window')}/>,
+                onClick = {() => alert('All changes are saved succesfully')}/>,
               <Button2 
                 key = {2}
                 backgroundColor = 'rgba(0, 0, 0, .2)'  

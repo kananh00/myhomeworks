@@ -1,0 +1,41 @@
+.App
+    display: flex
+    padding: 40px
+
+body 
+    margin: 0
+
+*
+    box-sizing: border-box
+
+.products-list
+    width: calc(100% - 500px)
+    display: flex
+    
+    flex-wrap: wrap
+    padding-right: 40px
+.title_name
+    display: inline-block
+    justify-content: center
+    font-size: 50px
+    color: red
+.single-product
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: calc((100% - 40px) / 3)
+    border: 3px solid lightgrey
+    margin-bottom: 20px
+    border-radius: 10px
+    padding: 20px
+    text-align: center
+    &:not(:nth-child(3n))
+        margin-right: 20px
+
+.load-more
+    width: 100%
+
+.cart
+    width: 500px
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 30px
+    padding: 40px
+    border: 2px solid #008B8B
