@@ -1,0 +1,83 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Native",
+        "artist": "by OneRepublic",
+        "price": 14.99,
+        "color": "#449c6d",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71rTV8s%2BtsL._SY450_.jpg",
+        "desc": "Lorem ipsum dolor sit amet, con adipiscing elit, sed diam nonu. "
+    }, {
+        "id": 2,
+        "name": "Starboy",
+        "artist": "by Weekend",
+        "price": 15.89,
+        "color": "#64fb04",
+        "image": "https://i.pinimg.com/originals/3a/f0/e5/3af0e55ea66ea69e35145fb108b4a636.jpg",
+        "desc": "Lorem ipsum dolor sit amet, con adipiscing elit, sed diam nonu. "
+    }, {
+        "id": 3,
+        "name": "Bohemian Rhapsody",
+        "artist": "by Queen",
+        "price": 17.49,
+        "color": "#2b10d8",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91Ph%2BuTyyxL._AC_SX466_.jpg",
+        "desc": "Lorem ipsum dolor sit amet, con adipiscing elit, sed diam nonu. "
+    }, {
+        "id": 4,
+        "name": "Dark Side of Moon",
+        "artist": "by Pink Floyd",
+        "price": 12.19,
+        "color": "#7652ef",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/31tZr4Nr5vL._AC_SY450_.jpg",
+        "desc": "Lorem ipsum dolor sit amet, con adipiscing elit, sed diam nonu. "
+    }, {
+        "id": 5,
+        "name": "Live at Reading",
+        "artist": "by Nirvana",
+        "price": 17.19,
+        "color": "#6ca2d6",
+        "image": "https://www.nirvana.com/files/2015/12/Live-at-Reading-Cover__300RGB.jpg",
+        "desc": "Lorem ipsum dolor sit amet, con adipiscing elit, sed diam nonu. "
+    }, {
+        "id": 6,
+        "name": "Plastic Beach",
+        "artist": "by Gorillaz",
+        "price": 18.39,
+        "color": "#df9357",
+        "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/17171218/Top100Covers_Gorillaz-Plastic-Beach.jpg",
+        "desc": "Lorem ipsum dolor sit amet, con adipiscing elit, sed diam nonu. "
+    }, {
+        "id": 7,
+        "name": "Master of Puppets",
+        "artist": "by Metallica",
+        "price": 20.59,
+        "color": "#067917",
+        "image": "https://i.pinimg.com/originals/66/3c/e4/663ce437f47bcde44d5073e875452c8b.jpg",
+        "desc": "Lorem ipsum dolor sit amet, con adipiscing elit, sed diam nonu. "
+    }, {
+        "id": 8,
+        "name": "Celebration Day",
+        "artist": "by Led Zapellin",
+        "price": 16.99,
+        "color": "#9e4f9b",
+        "image": "https://i.pinimg.com/originals/78/61/1e/78611e479e0ca701fc6c3a759e365c46.jpg",
+        "desc": "Lorem ipsum dolor sit amet, con adipiscing elit, sed diam nonu. "
+    }, {
+        "id": 9,
+        "name": "Divide",
+        "artist": "by Ed Sheeran",
+        "price": 19.49,
+        "color": "#39a619",
+        "image": "https://www.edsheeran.com/sites/g/files/g2000006291/f/201703/Pack-Shot.jpg",
+        "desc": "Lorem ipsum dolor sit amet, con adipiscing elit, sed diam nonu. "
+    }, {
+        "id": 10,
+        "name": "Cloud Nine",
+        "artist": "by KYGO",
+        "price": 16.29,
+        "color": "#50387d",
+        "image": "https://img.discogs.com/hd0QPw7WZviCToLRTAvOhiChGdA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8712103-1467136717-8205.jpeg.jpg",
+        "desc": "Lorem ipsum dolor sit amet, con adipiscing elit, sed diam nonu. "
+    }]
+}
